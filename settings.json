@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "play.dragonmc.fun",
+    "port": 25258,
     "version": "",
     "try-creative": false
   },
